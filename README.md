@@ -33,7 +33,7 @@ Certifique-se de que tem o **Python 3** instalado no seu sistema. Clone o reposi
 
 ```bash
 # Clonar o repositório
-git clone [https://github.com/o-seu-utilizador/toolbox.git](https://github.com/o-seu-utilizador/toolbox.git)
+git clone https://github.com/connectlab1/toolbox.git
 cd toolbox
 
 # Executar o consolidador de scripts
